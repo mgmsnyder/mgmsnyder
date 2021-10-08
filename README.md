@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mgmsnyder
 - 👀 I’m interested in solving problems and understanding the big picture
-- 🌱 I’m currently learning js with the goal of making a mobile app that will use react native. I am also taking a course in OOP using Java.
+- 🌱 I’m currently learning js with and making an app that will uses react. Stretch goal is to use react native.
 - 💞️ I’m looking to collaborate on projects that submit forms to websites.
 - 📫 How to reach me: DMs on GitHub is best, but discord is faster: Matsmyname#6416
 
